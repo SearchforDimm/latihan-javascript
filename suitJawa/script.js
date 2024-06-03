@@ -48,3 +48,4 @@ alert("Kamu memilih : " + p + " dan Komputer memilih : " + comp + "\n maka hasil
 
 alert("thanks for playing!")
 console.log(comp);
+
